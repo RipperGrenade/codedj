@@ -1,1 +1,4 @@
 .idea
+.git
+pollwebsite/pollwebsite/__pycache__/*
+pollwebsite/polls/__pycache__/
